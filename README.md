@@ -1,5 +1,5 @@
- 👋 Hello! Welcome to my Github profile.
- My name is Bianca and my nickname is Bia! 
+_He recently started the Systems Analysis and Development course at SENAI. 
+Come follow my progress by viewing my git hub  [repository](https://github.com/biiaduartez?tab=repositories)._
  
 ↳ fbia4020@gmail.com
  
