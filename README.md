@@ -29,17 +29,6 @@ Come follow my progress by viewing my git hub  [repository](https://github.com/b
   </a>
 </p>
 
- ---
+
  
-<div align="center">
-  <a href="https://github.com/biiaduartez">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusnunes137&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VINICIUSNUNES137&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/biiaduartez/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-</div>
